@@ -1,0 +1,116 @@
+import turtle
+t=turtle.Turtle()
+
+t.home()
+t.clear()
+
+for x in range (4):
+ t.forward(100)
+ t.left(90)
+ 
+ plint('hello')
+ 
+ for in range(6):
+ t.forward(100)
+ t.left(60)
+ 
+ print('hello')
+  
+  
+  
+def func(v)
+i=v+3
+return i
+
+
+
+func(5)
+
+à¯êî
+
+
+def totle(n):
+s=0
+for i in range(1,n+1)
+s+=i
+return s
+
+total(5)
+
+
+
+
+s=0
+for i in range(1,100)
+s+=i
+
+4950
+
+s=0
+for i in range(1,101):
+s+=i
+
+s
+
+5050
+
+def totle(n)
+s=0
+for i in range(1,n+1):
+s+=i
+return s
+
+totle(5)
+
+totle(10)
+
+
+import random
+r = 100
+turtle.home()
+turtle.clear()
+turtle.penup()
+turtle.forward(r)
+turtle.left(90)
+turtle.pendown()
+turtle.circle(r)
+turtle.penup()
+turtle.home()
+turtle.pendown()
+while turtle.distance(0, 0) < r:
+turtle.left(random.randint(1,360))
+turtle.forward(15)
+
+def circle(x,y,r):
+t.home()
+t.up()
+t.home()
+t.forward(x)
+t.left(90)
+t.forward(y)
+t.forward(r)
+t.left(90)
+t.down()
+t.circle(r)
+
+
+
+t.home()
+t.clear()
+
+circle(0,0,100)
+circle(100,200,50)
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
