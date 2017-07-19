@@ -1,0 +1,40 @@
+import turtle
+t=turtle.Turtle()
+
+t.home()
+t.clear()
+ 
+t.forward(100)
+t.left(90)
+t.forward(100)
+ 
+ 
+def rect(x,y,a):
+  t.up()
+  t.home()
+  t.forward(x)
+  t.left(90)
+  t.forward(y)
+for i in range(4):
+  t.forward(a)
+  t.left(-90)
+
+
+t.clear()
+rect(10,20,100)
+rect(10,10,100)
+
+
+
+
+import random
+random.randient(1,6)
+
+random.randient(1,6)
+
+import random
+aDice = Dice()
+aDice.shoot()
+
+
+ 
